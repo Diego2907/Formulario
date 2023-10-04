@@ -1,0 +1,31 @@
+{
+    padding: 0;
+    maring: 0;
+}
+h1{
+    text-align: right;
+    background-color: darkred;
+    color: white;
+    padding: 40px;
+}
+img{
+    width: 500px;
+    height: 900px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    padding: 20pt;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+.subtitulos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50pt;
+}
